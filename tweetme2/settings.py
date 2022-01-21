@@ -29,7 +29,7 @@ DEBUG = False
 
 #ALLOWED_HOSTS = ['127.0.0.1', '.cfe.sh', 'localhost']
 
-ALLOWED_HOSTS = ['Tweetme2.eba-rwzppxnx.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['Tweetme.eba-pczrqzzv.us-west-2.elasticbeanstalk.com']
 
 LOGIN_URL = "/login"
 
