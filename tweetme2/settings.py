@@ -29,9 +29,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-#ALLOWED_HOSTS = ['127.0.0.1', '.cfe.sh', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', '.cfe.sh', 'localhost']
 
-ALLOWED_HOSTS = ['Tweetme.eba-9x94rm8c.us-west-2.elasticbeanstalk.com']
+
 
 LOGIN_URL = "/login"
 
